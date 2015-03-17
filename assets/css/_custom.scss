@@ -714,7 +714,7 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 	margin-bottom: 40px;
 }
 
-.box1 {
+.box1, .box-in {
 	padding: 15px;
 	text-align: center;
 	color: #989898;
@@ -726,11 +726,24 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 
 }
 
+.box-in span {
+    font-size: 50px;
+
+}
+
 .box1 h3 {
 	text-align: center;
 }
 
+.box-in h3 {
+    text-align: center;
+}
+
 .box0:hover .box1 {
+    border:none;
+}
+
+.box-out:hover .box-in {
     border:none;
 }
 
@@ -740,13 +753,31 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 	color: #f2f2f2;
 }
 
+.box-out {
+  min-height: 230px;
+  p {
+      text-align: center;
+      font-size: 12px;
+      color: #f2f2f2;
+  }
+}
+
 .box0:hover p {
 	color: #ff865c;
+}
+
+.box-out:hover p {
+    color: #ff865c;
 }
 
 .box0:hover {
 	background: #ffffff;
 	box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.box-out:hover {
+    background: #ffffff;
+    box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 /* MAIN CHART CONFIGURATION */

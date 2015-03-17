@@ -3323,6 +3323,246 @@ a.badge:hover, a.badge:focus {
   padding: rem(70) !important;
   padding: 70px !important; }
 
+.m-7 {
+  margin: rem(7) !important;
+  margin: 7px !important; }
+
+.m-14 {
+  margin: rem(14) !important;
+  margin: 14px !important; }
+
+.m-21 {
+  margin: rem(21) !important;
+  margin: 21px !important; }
+
+.m-28 {
+  margin: rem(28) !important;
+  margin: 28px !important; }
+
+.m-35 {
+  margin: rem(35) !important;
+  margin: 35px !important; }
+
+.m-42 {
+  margin: rem(42) !important;
+  margin: 42px !important; }
+
+.m-49 {
+  margin: rem(49) !important;
+  margin: 49px !important; }
+
+.m-56 {
+  margin: rem(56) !important;
+  margin: 56px !important; }
+
+.m-63 {
+  margin: rem(63) !important;
+  margin: 63px !important; }
+
+.m-70 {
+  margin: rem(70) !important;
+  margin: 70px !important; }
+
+.pt-7 {
+  padding-top: rem(7) !important;
+  padding-top: 7px !important; }
+
+.pt-14 {
+  padding-top: rem(14) !important;
+  padding-top: 14px !important; }
+
+.pt-21 {
+  padding-top: rem(21) !important;
+  padding-top: 21px !important; }
+
+.pt-28 {
+  padding-top: rem(28) !important;
+  padding-top: 28px !important; }
+
+.pt-35 {
+  padding-top: rem(35) !important;
+  padding-top: 35px !important; }
+
+.pt-42 {
+  padding-top: rem(42) !important;
+  padding-top: 42px !important; }
+
+.pt-49 {
+  padding-top: rem(49) !important;
+  padding-top: 49px !important; }
+
+.pt-56 {
+  padding-top: rem(56) !important;
+  padding-top: 56px !important; }
+
+.pt-63 {
+  padding-top: rem(63) !important;
+  padding-top: 63px !important; }
+
+.pt-70 {
+  padding-top: rem(70) !important;
+  padding-top: 70px !important; }
+
+.pb-7 {
+  padding-bottom: rem(7) !important;
+  padding-bottom: 7px !important; }
+
+.pb-14 {
+  padding-bottom: rem(14) !important;
+  padding-bottom: 14px !important; }
+
+.pb-21 {
+  padding-bottom: rem(21) !important;
+  padding-bottom: 21px !important; }
+
+.pb-28 {
+  padding-bottom: rem(28) !important;
+  padding-bottom: 28px !important; }
+
+.pb-35 {
+  padding-bottom: rem(35) !important;
+  padding-bottom: 35px !important; }
+
+.pb-42 {
+  padding-bottom: rem(42) !important;
+  padding-bottom: 42px !important; }
+
+.pb-49 {
+  padding-bottom: rem(49) !important;
+  padding-bottom: 49px !important; }
+
+.pb-56 {
+  padding-bottom: rem(56) !important;
+  padding-bottom: 56px !important; }
+
+.pb-63 {
+  padding-bottom: rem(63) !important;
+  padding-bottom: 63px !important; }
+
+.pb-70 {
+  padding-bottom: rem(70) !important;
+  padding-bottom: 70px !important; }
+
+.pl-7 {
+  padding-left: rem(7) !important;
+  padding-left: 7px !important; }
+
+.pl-14 {
+  padding-left: rem(14) !important;
+  padding-left: 14px !important; }
+
+.pl-21 {
+  padding-left: rem(21) !important;
+  padding-left: 21px !important; }
+
+.pl-28 {
+  padding-left: rem(28) !important;
+  padding-left: 28px !important; }
+
+.pl-35 {
+  padding-left: rem(35) !important;
+  padding-left: 35px !important; }
+
+.pl-42 {
+  padding-left: rem(42) !important;
+  padding-left: 42px !important; }
+
+.pl-49 {
+  padding-left: rem(49) !important;
+  padding-left: 49px !important; }
+
+.pl-56 {
+  padding-left: rem(56) !important;
+  padding-left: 56px !important; }
+
+.pl-63 {
+  padding-left: rem(63) !important;
+  padding-left: 63px !important; }
+
+.pl-70 {
+  padding-left: rem(70) !important;
+  padding-left: 70px !important; }
+
+.pr-7 {
+  padding-right: rem(7) !important;
+  padding-right: 7px !important; }
+
+.pr-14 {
+  padding-right: rem(14) !important;
+  padding-right: 14px !important; }
+
+.pr-21 {
+  padding-right: rem(21) !important;
+  padding-right: 21px !important; }
+
+.pr-28 {
+  padding-right: rem(28) !important;
+  padding-right: 28px !important; }
+
+.pr-35 {
+  padding-right: rem(35) !important;
+  padding-right: 35px !important; }
+
+.pr-42 {
+  padding-right: rem(42) !important;
+  padding-right: 42px !important; }
+
+.pr-49 {
+  padding-right: rem(49) !important;
+  padding-right: 49px !important; }
+
+.pr-56 {
+  padding-right: rem(56) !important;
+  padding-right: 56px !important; }
+
+.pr-63 {
+  padding-right: rem(63) !important;
+  padding-right: 63px !important; }
+
+.pr-70 {
+  padding-right: rem(70) !important;
+  padding-right: 70px !important; }
+
+.mt-7 {
+  margin-top: rem(7) !important;
+  margin-top: 7px !important; }
+
+.mt-14 {
+  margin-top: rem(14) !important;
+  margin-top: 14px !important; }
+
+.mt-21 {
+  margin-top: rem(21) !important;
+  margin-top: 21px !important; }
+
+.mt-28 {
+  margin-top: rem(28) !important;
+  margin-top: 28px !important; }
+
+.mt-35 {
+  margin-top: rem(35) !important;
+  margin-top: 35px !important; }
+
+.mt-42 {
+  margin-top: rem(42) !important;
+  margin-top: 42px !important; }
+
+.mt-49 {
+  margin-top: rem(49) !important;
+  margin-top: 49px !important; }
+
+.mt-56 {
+  margin-top: rem(56) !important;
+  margin-top: 56px !important; }
+
+.mt-63 {
+  margin-top: rem(63) !important;
+  margin-top: 63px !important; }
+
+.mt-70 {
+  margin-top: rem(70) !important;
+  margin-top: 70px !important; }
+
 .mb-7 {
   margin-bottom: rem(7) !important;
   margin-bottom: 7px !important; }
@@ -3363,8 +3603,126 @@ a.badge:hover, a.badge:focus {
   margin-bottom: rem(70) !important;
   margin-bottom: 70px !important; }
 
+.ml-7 {
+  margin-left: rem(7) !important;
+  margin-left: 7px !important; }
+
+.ml-14 {
+  margin-left: rem(14) !important;
+  margin-left: 14px !important; }
+
+.ml-21 {
+  margin-left: rem(21) !important;
+  margin-left: 21px !important; }
+
+.ml-28 {
+  margin-left: rem(28) !important;
+  margin-left: 28px !important; }
+
+.ml-35 {
+  margin-left: rem(35) !important;
+  margin-left: 35px !important; }
+
+.ml-42 {
+  margin-left: rem(42) !important;
+  margin-left: 42px !important; }
+
+.ml-49 {
+  margin-left: rem(49) !important;
+  margin-left: 49px !important; }
+
+.ml-56 {
+  margin-left: rem(56) !important;
+  margin-left: 56px !important; }
+
+.ml-63 {
+  margin-left: rem(63) !important;
+  margin-left: 63px !important; }
+
+.ml-70 {
+  margin-left: rem(70) !important;
+  margin-left: 70px !important; }
+
+.mr-7 {
+  margin-right: rem(7) !important;
+  margin-right: 7px !important; }
+
+.mr-14 {
+  margin-right: rem(14) !important;
+  margin-right: 14px !important; }
+
+.mr-21 {
+  margin-right: rem(21) !important;
+  margin-right: 21px !important; }
+
+.mr-28 {
+  margin-right: rem(28) !important;
+  margin-right: 28px !important; }
+
+.mr-35 {
+  margin-right: rem(35) !important;
+  margin-right: 35px !important; }
+
+.mr-42 {
+  margin-right: rem(42) !important;
+  margin-right: 42px !important; }
+
+.mr-49 {
+  margin-right: rem(49) !important;
+  margin-right: 49px !important; }
+
+.mr-56 {
+  margin-right: rem(56) !important;
+  margin-right: 56px !important; }
+
+.mr-63 {
+  margin-right: rem(63) !important;
+  margin-right: 63px !important; }
+
+.mr-70 {
+  margin-right: rem(70) !important;
+  margin-right: 70px !important; }
+
 .bg-info {
   background-color: #68dff0; }
+
+.col-lg-2-4 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media (min-width: 1200px) {
+    .col-lg-2-4 {
+      float: left;
+      width: 20%; } }
+
+.col-md-2-4 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media (min-width: 992px) {
+    .col-md-2-4 {
+      float: left;
+      width: 20%; } }
+
+.col-sm-2-4 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media (min-width: 768px) {
+    .col-sm-2-4 {
+      float: left;
+      width: 20%; } }
+
+.col-xs-2-4 {
+  position: relative;
+  float: left;
+  width: 20%;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
 
 /*
 Template Name: DASHGUM FREE - Bootstrap 3.2 Admin Theme
@@ -3941,7 +4299,7 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
   margin-top: 80px;
   margin-bottom: 40px; }
 
-.box1 {
+.box1, .box-in {
   padding: 15px;
   text-align: center;
   color: #989898;
@@ -3950,10 +4308,19 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 .box1 span {
   font-size: 50px; }
 
+.box-in span {
+  font-size: 50px; }
+
 .box1 h3 {
   text-align: center; }
 
+.box-in h3 {
+  text-align: center; }
+
 .box0:hover .box1 {
+  border: none; }
+
+.box-out:hover .box-in {
   border: none; }
 
 .box0 p {
@@ -3961,10 +4328,24 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
   font-size: 12px;
   color: #f2f2f2; }
 
+.box-out {
+  min-height: 230px; }
+  .box-out p {
+    text-align: center;
+    font-size: 12px;
+    color: #f2f2f2; }
+
 .box0:hover p {
   color: #ff865c; }
 
+.box-out:hover p {
+  color: #ff865c; }
+
 .box0:hover {
+  background: #ffffff;
+  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2); }
+
+.box-out:hover {
   background: #ffffff;
   box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2); }
 
