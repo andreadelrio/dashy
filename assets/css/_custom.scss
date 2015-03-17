@@ -209,9 +209,9 @@ hr {
 	background-color: #68dff0;
 }
 
-.bg-theme {
-	background-color: #68dff0;
-}
+// .bg-theme {
+// 	background-color: #68dff0;
+// }
 
 ul.top-menu > li > .logout {
 	color: #f2f2f2;
@@ -731,7 +731,7 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 }
 
 .box0:hover .box1 {
-	border-bottom: 1px solid #ffffff;
+    border:none;
 }
 
 .box0 p {

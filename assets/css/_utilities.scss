@@ -1,0 +1,21 @@
+@for $h from 1 to 11 {
+  .p-#{$h*7} {
+    padding: rem($h*7)!important;
+    padding: ($h*7) + px !important;
+  }
+}
+
+@for $h from 1 to 11 {
+  .mb-#{$h*7} {
+    margin-bottom: rem($h*7)!important;
+    margin-bottom: ($h*7) + px !important;
+  }
+}
+
+$colors: (info: $brand-info);
+
+@each $color-name, $color-code in $colors {
+	.bg-#{$color-name}{
+		background-color:$color-code;
+	}
+}
