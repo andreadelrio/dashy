@@ -3751,14 +3751,6 @@ a, a:hover, a:focus {
   text-decoration: none;
   outline: none; }
 
-::selection {
-  background: #68dff0;
-  color: #fff; }
-
-::-moz-selection {
-  background: #68dff0;
-  color: #fff; }
-
 #container {
   width: 100%;
   height: 100%; }
@@ -4065,8 +4057,8 @@ ul.sidebar-menu li a.active i {
   background: #ffd777;
   border-bottom: 1px solid #c9aa5f; }
 
-.wrapper {
-  display: inline-block;
+.main-content-wrapper {
+  float: right;
   margin-top: 60px;
   padding-left: 15px;
   padding-right: 15px;
@@ -4232,6 +4224,9 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
     @media screen and (max-width: 480px) {
       #aside.menu-toggle {
         margin-left: -400px; } }
+    @media screen and (orientation: portrait) and (max-width: 1024px) {
+      #aside.menu-toggle {
+        margin-left: -1000px; } }
 
 #main-content {
   margin-left: 210px;
@@ -5234,7 +5229,9 @@ label {
 .site-footer {
   background: #68dff0;
   color: #fff;
-  padding: 10px 0; }
+  padding: 10px 0;
+  float: right;
+  width: 100%; }
 
 .go-top {
   margin-right: 1%;
