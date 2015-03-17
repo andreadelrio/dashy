@@ -30,3 +30,7 @@ $colors: (info: $brand-info);
 .col-xs-2-4{
   @include make-xs-column(2.4)
 }
+
+.text-left {
+	text-align: left;
+}
